@@ -1,3 +1,79 @@
-main {background-color: steelblue;}
-.main-section {background-color: blueviolet;}
-#triangle-section {background-color: aquamarine;}
+body {
+    margin: 0;
+    background-color: #3C2317;
+    text-align: center;
+    
+}
+h1{
+    color: #EAF6F6;
+}
+p {
+    color: #EAF6F6;
+}
+footer{
+    background-color: #628E90;
+}
+
+
+nav{
+    background-color: #628E90;
+    
+
+}
+.nav-menu{
+   list-style: none;
+   display: inline-block;
+   width: 5vw;
+   background-color: #3C7836;
+}
+p{
+   color: #F5EFE6; 
+}
+main {
+
+}
+hr {
+    border: dotted #EAF6F6 2px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+  }
+.hr-photo{
+    width: 5%;
+    height: auto;
+    margin: 100px auto;
+    padding-left: 50%;
+}
+.main-section{}
+#roundlamps {
+    background-color: #628E90;
+    display: block;
+    width: 10vw;
+    height: 20vh;
+}
+#shinylamps {
+    display: inline-block;
+    width: 10vw;
+    height: 20vh;
+    margin: 20vh auto 20vh auto;
+    padding: 5vh 0vw 5vh 0vw;
+    font-family: ;
+}
+#list{
+    text-decoration: none;
+    display: inline-block;
+    width: 5vw;
+  
+}
+#shinylamps2{
+   display: inline-block
+   
+}
+
+#shinylamps3{
+    display: inline-block;
+
+ }
+footer{
+    background-color: #B2B2B2;
+}
